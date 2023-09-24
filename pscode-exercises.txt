@@ -1,0 +1,56 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+enter number x
+enter number y
+add number x and number y 
+output the sum as z 
+
+// Exercise 2: Check if a Number is Even or Odd
+
+enter number as x
+is number divisible by 2
+if yes then it is even
+if not then it is odd  
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+Enter number a, number b, number c, number d, number e
+add all 5 numbers
+output the answer 
+list answer as "this number is the sum"
+divide sum by 5 
+output answer 
+list answer as "this number is the average" 
+recognize all 5 numbers
+is a<b,c,d,e 
+if so, list a as smallest number
+else check to see if b<a,c,d,e
+if so, list b as smallest number
+else check to see if c<a,b,d,e
+if so, list c as smallest number
+else check to see if d<a,b,c,e
+if so, list d as smallest number
+else check to see if e<a,b,c,d
+if so list e as smallest number
+list answer as "this answer is the smallest number" 
+recognize all 5 numbers
+is a>b,c,d,e 
+if so, list a as largest number
+else check to see if b>a,c,d,e
+if so, list b as largest number
+else check to see if c>a,b,d,e
+if so, list c as largest number
+else check to see if d>a,b,c,e
+if so, list d as largest number
+else check to see if e>a,b,c,d
+if so list e as largest number
+list answer as "this answer is the largest number"
+
+
+-- END --
